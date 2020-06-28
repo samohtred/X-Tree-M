@@ -107,14 +107,22 @@ uc_browsing_infopanel.js
 	- info panel on right where global information is displayed (News Ticker, Date Ticker, changed items in the future)
 uc_browsing_keyb.js
 	- keyboard handling for usecase "browsing"
+
 uc_browsing_lang.js
 	- language file to the "Browsing" usecase (for menu, messages, titles, etc.)
 uc_browsing_main.js
 	- actually the heart of the system where everything comes together (handling of GUI, database, control, etc.)
+
 uc_browsing_menubar.js
 	- menubar handling				
 uc_browsing_setup
 	- actually used config for the usecase ("UC") "browsing" (browsing through the tree
+uc_browsing_setup__DISCO.js
+	- not used - only to show how the setup for the old DISCO database version has to be made
+uc_browsing_setup__XML.js
+	- not used - only to show how the setup for the local XML database version (Apache on local PC) has to be made
+uc_browsing_setup_online.js
+	- not used - only to show how the setup for the remote XML database version (on server) has to be made
 uc_browsing_toolbar.js
 	- toolbar line directly below menubar (displays currently selected language, item type and region)
 uc_browsing_tree_db.xml

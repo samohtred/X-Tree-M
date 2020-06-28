@@ -1,0 +1,22 @@
+
+  
+- "Ändern" klappt nicht  
+  -> komischerweise klappt navigieren, aber nicht umbenennen
+    -> gemeckert wird, daß die Statemachine zum Anzeigen noch nicht nach
+      Idle zurückgegangen ist -> Warum ?
+      
+  
+  
+- Verknüpfung gelöschter Items mit Parents in lib_data_paul.js
+  -> 
+
+- Dem User anzeigen : Was hat sich geändert ?
+- automat. Test
+
+
+- andere Tools
+  https://workflowy.com/
+  http://deliberatorium.mit.edu:8000/ci/show-page?post+E-3O6ICQ-4
+    https://cci.mit.edu/klein/research/
+  https://debategraph.org
+  https://participedia.net/en/research
